@@ -18,6 +18,9 @@ export default {
   }
   h1 {
     font-size: 40px;
-    margin: 0;
+    margin: 40px 0 0 0;
+  }
+  h2 {
+    margin-top: 40px;
   }
 </style>
